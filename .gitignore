@@ -1,0 +1,8 @@
+# Notebook/runtime artifacts
+.matplotlib/
+__pycache__/
+outputs/
+models/
+
+# Excluded at the user's request
+New Text Document.txt
